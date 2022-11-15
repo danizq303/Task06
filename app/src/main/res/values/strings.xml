@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task06_01</string>
+    <string name="nombre">Nombre</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="estrellita">Estrellita</string>
+    <string name="asunto">Asunto</string>
+    <string name="fecha">Fecha</string>
+    <string name="contenido">Contenido</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="ejercicio_5">Ejercicio 5</string>
+    <string name="ejercicio_6">Ejercicio 6</string>
+    <string name="ejercicio_4">Ejercicio 4</string>
+    <string name="ejercicio_3">Ejercicio 3</string>
+    <string name="ejercicio_2">Ejercicio 2</string>
+    <string name="ejercicio_1">Ejercicio 1</string>
+</resources>
